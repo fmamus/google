@@ -1,0 +1,30 @@
+.box{
+    width: 27%;
+    background-color: #7EE5DA;
+    padding: 10px 50px;
+    margin: 3px 3px auto 90px;
+    float: left;
+}
+.box2{
+    background-color: #70CCC2;
+    float: left;
+    padding: 7px 90px;
+    margin: 3px 0;
+}
+.box3{
+    background-color: #62B3AA;
+    float: left;
+    margin: 3px 3px;
+    padding: 0px 180px;
+}
+.box4{
+    background-color: #EEEEEE;
+    margin: 3px 120px 3px 90px;
+    padding: 3px 20px;
+    height: 75px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 0px;
+}
